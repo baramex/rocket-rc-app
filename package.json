@@ -1,0 +1,25 @@
+{
+  "name": "rocket-rc-app",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/baramex/rocket-rc-app#readme",
+  "bugs": {
+    "url": "https://github.com/baramex/rocket-rc-app/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baramex/rocket-rc-app.git"
+  },
+  "license": "ISC",
+  "author": "baramex",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.15.0",
+    "dotenv": "^17.4.2",
+    "serialport": "^13.0.0"
+  }
+}
